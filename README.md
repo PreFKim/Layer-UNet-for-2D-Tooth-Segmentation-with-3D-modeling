@@ -27,4 +27,4 @@ DSV는 Deep Supervision을 의미함
 3. 추론 결과를 Z축으로 다시 쌓아 3D STL 파일로 변환한다.
 
 
-<p align="center"><img src = './img/conference.jpg'>
+<p align="center"><img src = './img/conference.jpg' width=320 hegith=640>
