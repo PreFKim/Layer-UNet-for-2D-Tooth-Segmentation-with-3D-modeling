@@ -18,7 +18,7 @@ DSV는 Deep Supervision을 의미함
 
 ## 동작과정
 
-<p align="center"><img src = './img/1.png'>
+<p align="center"><img src = './img/1.PNG'>
 
 1. 3D CBCT 이미지에 대해서 Z축을 기준으로 Slice하여 데이터셋을 구성한다.
 
@@ -26,5 +26,6 @@ DSV는 Deep Supervision을 의미함
 
 3. 추론 결과를 Z축으로 다시 쌓아 3D STL 파일로 변환한다.
 
+## 2022 전자전기공학회 추계학술제 발표
 
-<p align="center"><img src = './img/conference.jpg' width=320 hegith=640>
+<p align="center"><img src = './img/conference.jpg' width=160 hegith=320>
