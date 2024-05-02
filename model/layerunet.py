@@ -1,6 +1,6 @@
 import keras
 
-from utils import conv
+from .utils import conv
 
 
 def layerUNET(n_levels, DSV=True ,initial_features=32, n_blocks=2, kernel_size=3, pooling_size=2, IMAGE_HEIGHT=400, IMAGE_WIDTH=400, in_channels=3, out_channels=1):

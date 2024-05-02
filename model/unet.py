@@ -1,7 +1,7 @@
 
 import keras
 
-from utils import conv
+from .utils import conv
 
 def unet(n_levels, initial_features=32, n_blocks=2, kernel_size=3, pooling_size=2, IMAGE_HEIGHT=400, IMAGE_WIDTH=400, in_channels=1, out_channels=1):
     inputs = keras.layers.Input(shape=(IMAGE_HEIGHT, IMAGE_WIDTH, in_channels))
